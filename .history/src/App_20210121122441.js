@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       testy
-      <Sum a={14} b={6}/>
+      <Sum a={4} b={6}/>
     </div>
   )
 }
